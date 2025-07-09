@@ -7,11 +7,12 @@ This repository contains solutions to the problem sets from the **Algorithm Desi
 Throughout the course, I studied and applied the core concepts of algorithm design and analysis, including:
 
 - **Time and space complexity analysis** (O, Θ, Ω)
+- **Recursion and Iteration Algorithms**
 - **Asymptotic behavior** and performance comparison between algorithms
 - **Divide and conquer**, **greedy algorithms**, and **dynamic programming**
-- Recurrence relations and the Master Theorem
+- **Recurrence relations and the Master Theorem**
 - **Sorting algorithms** (e.g., Merge Sort, Quick Sort, Heap Sort) and their optimizations
-- Graph algorithms: DFS, BFS, Dijkstra’s, Floyd-Warshall, Kruskal’s and Prim’s
+- **Graph algorithms:** DFS, BFS, Dijkstra’s, Floyd-Warshall, Kruskal’s and Prim’s
 - Problem-solving strategies and algorithmic thinking
 
 ## Tools & Languages:
