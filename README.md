@@ -17,6 +17,7 @@ Throughout the course, I studied and applied the core concepts of algorithm desi
 ## Tools & Languages:
 - C++ (primarily for the exercise solutions)
 - Python
+- Java
 
 ## Key Takeaway:
 
